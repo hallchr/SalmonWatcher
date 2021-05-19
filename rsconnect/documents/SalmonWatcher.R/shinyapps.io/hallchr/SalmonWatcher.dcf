@@ -1,0 +1,12 @@
+name: SalmonWatcher
+title: SalmonWatcher
+username:
+account: hallchr
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1224224
+bundleId: 2430883
+url: https://hallchr.shinyapps.io/SalmonWatcher/
+when: 1569022668.38429
+asMultiple: FALSE
+asStatic: FALSE
